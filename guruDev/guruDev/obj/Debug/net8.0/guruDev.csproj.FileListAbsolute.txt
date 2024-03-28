@@ -1,0 +1,14 @@
+C:\Users\2023102060035\Downloads\guruDev\guruDev\bin\Debug\net8.0\guruDev.exe
+C:\Users\2023102060035\Downloads\guruDev\guruDev\bin\Debug\net8.0\guruDev.deps.json
+C:\Users\2023102060035\Downloads\guruDev\guruDev\bin\Debug\net8.0\guruDev.runtimeconfig.json
+C:\Users\2023102060035\Downloads\guruDev\guruDev\bin\Debug\net8.0\guruDev.dll
+C:\Users\2023102060035\Downloads\guruDev\guruDev\bin\Debug\net8.0\guruDev.pdb
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\guruDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\guruDev.AssemblyInfoInputs.cache
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\guruDev.AssemblyInfo.cs
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\guruDev.csproj.CoreCompileInputs.cache
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\guruDev.dll
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\refint\guruDev.dll
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\guruDev.pdb
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\guruDev.genruntimeconfig.cache
+C:\Users\2023102060035\Downloads\guruDev\guruDev\obj\Debug\net8.0\ref\guruDev.dll
